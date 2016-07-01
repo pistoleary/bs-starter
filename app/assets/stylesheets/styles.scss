@@ -1,9 +1,19 @@
+// #00dffc
+// #008c9e
+// #005f6b
+// #343838
+
+body {
+     font-family: monospace;
+     color: #343838;
+}
+
 .section-header {
 
 }
 
 .status {
-
+     font-size: 1.5em;
 }
 
 .organization {
@@ -11,5 +21,16 @@
 }
 
 .small-stuff {
+     color: #008c9e;
+}
+
+.contact-icon {
+     color: #008c9e;
+     &:hover {
+          color: #005f6b;
+     }
+}
+
+.skill-color {
 
 }
