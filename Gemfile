@@ -15,7 +15,6 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'font-awesome-sass'
 gem 'devise'
 gem "paperclip", '4.3.6'
-gem 'simple_form'
 gem 'cocoon'
 gem 'aws-sdk', '~> 2'
 group :development, :test do
