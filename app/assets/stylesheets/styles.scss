@@ -42,3 +42,12 @@ body {
 .progress-bar-info {
 
 }
+
+.company-name {
+     text-decoration: none;
+     color: #343838;
+     &:hover {
+          text-decoration: none;
+          color: #005f6b;
+     }
+}
