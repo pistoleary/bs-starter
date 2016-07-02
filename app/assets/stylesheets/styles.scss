@@ -25,12 +25,20 @@ body {
 }
 
 .contact-icon {
-     color: #008c9e;
+     color: #5bc0de;
      &:hover {
-          color: #005f6b;
+          color: rgba(#5bc0de, 0.84);
      }
 }
 
 .skill-color {
+     background-color: #008c9e;
+}
+
+.progress-bar {
+     text-align: left;
+}
+
+.progress-bar-info {
 
 }
